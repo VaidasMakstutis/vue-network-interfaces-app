@@ -1,0 +1,11 @@
+{
+	"tasks": {
+		"title": "Network interfaces",
+		"index": 90
+	},
+	"tasks/first_task": {
+		"title": "Network interfaces",
+		"view": "vuci-app-network-interfaces",
+		"index": 10
+	}
+}
